@@ -1,0 +1,8 @@
+{
+  "link": "https://",
+  "endpoints": {
+    "init": "/init?id={id}",
+    "login": "/login",
+    "checklist": "/checkin"
+  }
+}

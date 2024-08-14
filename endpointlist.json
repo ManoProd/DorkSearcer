@@ -1,5 +1,5 @@
 {
-  "link": "https://",
+  "link": "http://127.0.0.1:5000",
   "endpoints": {
     "init": "/init?id={id}",
     "login": "/login",

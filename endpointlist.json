@@ -1,5 +1,5 @@
 {
-  "link": "http://127.0.0.1:5000",
+  "link": "https://9ed7-129-152-9-110.ngrok-free.app",
   "endpoints": {
     "init": "/init?id={id}",
     "login": "/login",

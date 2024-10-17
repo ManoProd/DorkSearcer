@@ -1,5 +1,5 @@
 {
-  "link": "https://12f6-129-152-9-110.ngrok-free.app",
+  "link": "https://bb7b-129-152-9-110.ngrok-free.app",
   "endpoints": {
     "init": "/init?id={id}",
     "login": "/login",
